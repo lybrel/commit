@@ -2,7 +2,7 @@ import yaml
 from datetime import datetime
 from git import Repo
 
-FILE_TO_COMMIT_NAME = 'update_me.yaml'
+FILE_TO_COMMIT_NAME = 'updateme.yaml'
 
 
 def update_file_to_commit():
